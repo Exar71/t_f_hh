@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:t_f_h/core/themes/app_theme.dart';
-import 'package:t_f_h/features/club/presentation/pages/club_dashboard_page.dart';
+import 'package:t_f_h/features/club/presentation/club_dashboard_page.dart';
 import 'package:t_f_h/presentation/widgets/role_selection_button.dart';
 
 void main() {

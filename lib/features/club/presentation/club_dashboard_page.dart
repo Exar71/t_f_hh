@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'dart:async';
 
-import 'package:t_f_h/features/club/presentation/pages/club_finances_page.dart';
-import 'package:t_f_h/features/club/presentation/pages/club_squad_page.dart';
-import 'package:t_f_h/features/club/presentation/pages/club_staff_page.dart';
-import 'package:t_f_h/features/club/presentation/pages/club_tactics_page.dart';
-import 'package:t_f_h/features/club/presentation/pages/club_training_page.dart';
-import 'package:t_f_h/features/club/presentation/pages/club_transfers_page.dart';
+import 'package:t_f_h/features/club/presentation/club_finances_page.dart';
+import 'package:t_f_h/features/club/presentation/club_squad_page.dart';
+import 'package:t_f_h/features/club/presentation/club_staff_page.dart';
+import 'package:t_f_h/features/club/presentation/club_tactics_page.dart';
+import 'package:t_f_h/features/club/presentation/club_training_page.dart';
+import 'package:t_f_h/features/club/presentation/club_transfers_page.dart';
 
 class ClubDashboardPage extends StatefulWidget {
   const ClubDashboardPage({super.key});
